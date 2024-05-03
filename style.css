@@ -4120,7 +4120,6 @@ a.close.disabled {
     overflow-y: auto; }
 
 .modal {
-  position: fixed;
   top: 0;
   left: 0;
   z-index: 1050;
