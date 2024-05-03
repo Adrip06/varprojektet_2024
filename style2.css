@@ -1,5 +1,4 @@
 footer {
-    position: fixed;
     bottom: 0;
     width: 100%;
     background-color: #344966;
@@ -10,3 +9,4 @@ footer {
 .socials {
     color: #EFF1F4;
 }
+
