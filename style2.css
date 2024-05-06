@@ -13,8 +13,16 @@ footer {
 .card {
 margin: 20px;
 }
-.Produtext {
-    text-align: center;
-    border: 2px solid #344966 ;
+p {
+    margin-left: 2em;
 }
+h2 {
+    margin: 20px;
+    border: solid 3px #344966;
+    padding: 0.5em;
+}
+h1 {
+    margin: 0.25em;
+}
+
 
