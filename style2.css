@@ -20,12 +20,17 @@ h2 {
     margin: 20px;
     border: solid 3px #344966;
     padding: 0.5em;
+    border-radius: 0.5em;
 }
 h1 {
     margin: 0.25em;
 }
 .omoss {
-    border-radius: ;
+    max-width: 45%;
+    margin-left: 22.5em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    align-self: center;
 }
 .social-links {
     color: #EFF1F4;
