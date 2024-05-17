@@ -37,7 +37,13 @@ h1 {
     max-width: 5%;
     flex: auto;
 }
-nav{
-    border: 1px solid #000;
-    position: left;
+nav div.container-fluid{
+    justify-content:left !IMPORTANT;
+    flex-direction: row;
+}
+nav div.navbar-nav{ 
+    flex-direction: row;
+}
+nav div.navbar-nav a{
+    margin: 20px;
 }
