@@ -9,6 +9,7 @@ footer {
 }
 .socials {
     color: #EFF1F4; 
+    text-align: center;
 }
 .card {
 margin: 20px;
@@ -45,4 +46,9 @@ nav div.navbar-nav{
 }
 nav div.navbar-nav a{
     margin: 20px;
+}
+.logga-image {
+    max-width: 18%;
+    margin-top: 2em;
+    margin-left: 2em;
 }
