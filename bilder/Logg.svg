@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="166.66048mm"
+   height="97.228256mm"
+   viewBox="0 0 166.66048 97.228256"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="68.740791"
+       y="138.55565"
+       width="132.11121"
+       height="117.07415"
+       id="rect4" />
+    <rect
+       x="68.353699"
+       y="233.92155"
+       width="253.66818"
+       height="118.47975"
+       id="rect2" />
+    <rect
+       x="60.758846"
+       y="186.83345"
+       width="665.30939"
+       height="473.91901"
+       id="rect1" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-19.165045,-67.749007)">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:Algerian;-inkscape-font-specification:Algerian;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#000000;fill-opacity:0;stroke:#000000;stroke-opacity:0" />
+    <text
+       xml:space="preserve"
+       transform="matrix(1.0683149,0,0,1.0731425,-58.217653,-207.03836)"
+       id="text2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:97.7486px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';white-space:pre;shape-inside:url(#rect2);display:inline;fill:#2b0000;fill-opacity:1;stroke:#000000;stroke-opacity:0"><tspan
+         x="68.353516"
+         y="323.7222"
+         id="tspan5"><tspan
+   style="fill:#344966"
+   id="tspan1">C.</tspan>
+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.8217px;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, ';fill:#2b0000;fill-opacity:1;stroke:#000000;stroke-width:0.705818;stroke-opacity:0"
+       x="18.794483"
+       y="149.73505"
+       id="text3"
+       transform="scale(1.0560427,0.94693141)"><tspan
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.8217px;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, ';stroke-width:0.705818"
+         x="18.794483"
+         y="149.73505" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.8217px;font-family:'Copperplate Gothic Light';-inkscape-font-specification:'Copperplate Gothic Light, ';fill:#0d1821;fill-opacity:1;stroke-width:0.705818"
+         id="tspan4"
+         x="18.794483"
+         y="173.26218">Code Crafters</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(-1.1456624,-0.00615283,0.00701603,-1.0047094,270.06632,298.46848)"
+       id="text4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Century Schoolbook';-inkscape-font-specification:'Century Schoolbook';white-space:pre;shape-inside:url(#rect4);display:inline;fill:#2b0000;fill-opacity:1;stroke:#000000;stroke-opacity:0"><tspan
+         x="68.740234"
+         y="226.5526"
+         id="tspan7"><tspan
+           style="fill:#344966"
+           id="tspan6">C</tspan></tspan></text>
+  </g>
+</svg>
