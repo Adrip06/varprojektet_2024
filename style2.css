@@ -28,6 +28,7 @@ h1 {
 }
 .omoss {
     max-width: 45%;
+    margin-left: 25%;
     margin-top: 2em;
     margin-bottom: 2em;
 }
@@ -35,7 +36,6 @@ h1 {
     color: #EFF1F4;
     max-width: 5%;
     flex: auto;
-    margin-right: 3em;
 }
 nav div.container-fluid{
     justify-content:left !IMPORTANT;
@@ -48,6 +48,7 @@ nav div.navbar-nav a{
     margin: 20px;
 }
 .logga-image {
-    max-width: 20%;
-    margin: 1em;
+    max-width: 18%;
+    margin-top: 2em;
+    margin-left: 2em;
 }
