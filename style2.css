@@ -52,9 +52,14 @@ nav div.navbar-nav a{
     margin-top: 2em;
     margin-left: 2em;
 }
+<<<<<<< HEAD
 .tc-logga {
     max-width: 45%;
     margin-left: 25%;
     margin-top: 2em;
     margin-bottom: 2em;
+=======
+.bild-pa-mannsikor {
+    align-items: center;
+>>>>>>> 318d72b3f50b0dc3b4b3a12fb475f88339541824
 }
